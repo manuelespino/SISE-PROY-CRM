@@ -1,0 +1,4 @@
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Comun\bin\Debug\SISE.COMUN.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Comun\bin\Debug\SISE.COMUN.pdb
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Comun\obj\Debug\SISE.COMUN.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Comun\obj\Debug\SISE.COMUN.pdb

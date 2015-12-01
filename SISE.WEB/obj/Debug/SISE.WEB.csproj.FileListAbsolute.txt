@@ -1,0 +1,12 @@
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.dll.config
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.dll
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.pdb
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.csprojResolveAssemblyReference.cache
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.dll
+C:\Users\w8.1\Desktop\openwindows\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.pdb
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.dll.config
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.dll
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\bin\SISE.WEB.pdb
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.csprojResolveAssemblyReference.cache
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.dll
+C:\Users\w8.1\Desktop\PUBS\PROYECTO\SISE.WEB\SISE.WEB\obj\Debug\SISE.WEB.pdb

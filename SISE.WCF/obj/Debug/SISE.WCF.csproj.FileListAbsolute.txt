@@ -1,0 +1,6 @@
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\bin\SISE.WCF.dll.config
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\bin\SISE.WCF.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\bin\SISE.WCF.pdb
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\obj\Debug\SISE.WCF.csprojResolveAssemblyReference.cache
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\obj\Debug\SISE.WCF.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.WCF\obj\Debug\SISE.WCF.pdb

@@ -1,0 +1,5 @@
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.ServiceAgent\bin\Debug\SISE.SERVICEAGENT.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.ServiceAgent\bin\Debug\SISE.SERVICEAGENT.pdb
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.ServiceAgent\obj\Debug\SISE.ServiceAgent.csprojResolveAssemblyReference.cache
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.ServiceAgent\obj\Debug\SISE.SERVICEAGENT.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.ServiceAgent\obj\Debug\SISE.SERVICEAGENT.pdb

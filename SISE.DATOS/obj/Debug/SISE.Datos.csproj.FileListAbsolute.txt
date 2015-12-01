@@ -1,0 +1,5 @@
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Datos\bin\Debug\SISE.DATOS.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Datos\bin\Debug\SISE.DATOS.pdb
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Datos\obj\Debug\SISE.Datos.csprojResolveAssemblyReference.cache
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Datos\obj\Debug\SISE.DATOS.dll
+C:\Users\w8.1\Desktop\CRM-SISE\DESKTOPONLINE\SISE.Datos\obj\Debug\SISE.DATOS.pdb
